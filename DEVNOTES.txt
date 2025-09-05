@@ -16,7 +16,7 @@ Step 1: Open your command-line and browse to the folder where you extracted the 
 
 Additional Notes:
 =============================
--
+-immediately clone and make private repo, instructions below
 
 Additional Resources: 
 =========================
