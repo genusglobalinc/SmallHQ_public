@@ -1,6 +1,6 @@
 # SmallHQ_public
 
-SmallHQ_public is a Java application serving as a comprehensive showcase of advanced development skills for potential employers. Users can explore how to integrate small patches into vanilla MCP source code, granting access to essential data and functions for mod development. With a focus on demonstrating modding capabilities following Minecraft Forge installation methodology, this project highlights proficiency in Java programming and project deployment on Render.
+SmallHQ_public is a Java application serving as a showcase of development skills. It follows the Minecraft Forge installation methodology, applying patches to vanilla MCP source code to provide access to necessary data and functions for mod development. The application does not utilize any APIs or databases, and it is deployed using Render.
 
 ![Language](https://img.shields.io/badge/language-Java-blue)
 ![Status](https://img.shields.io/badge/status-Portfolio-Ready-green)
@@ -25,7 +25,7 @@ This project is configured for deployment on **Render**.
 ## 📊 Project Statistics
 
 - **Total Files:** 8
-- **Lines of Code:** 1,954
+- **Lines of Code:** 1,942
 - **Primary Language:** Java
 - **Development Status:** Portfolio-Ready
 
