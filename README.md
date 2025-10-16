@@ -1,22 +1,15 @@
 # SmallHQ_public
 
-**SmallHQ_public**
-
-**Description:**
-SmallHQ_public is a Java application that demonstrates advanced development skills through integration with Google APIs and Instagram. It offers features like user registration and serves as a portfolio project to showcase technical expertise.
-
-**Key Features:**
-- Seamless integration with Google APIs and Instagram
-- User-friendly interface with user registration functionality
-
-**Endpoints:**
-0 endpoints
-
-**Deployment:**
-Render
+SmallHQ_public is a Java application designed to offer modders an interactive platform to enhance their Minecraft Forge experience. Users can easily create accounts, share feedback, and access essential data and functions for mod development. Leveraging Google APIs and Instagram integration, this project not only showcases strong development skills but also provides a user-friendly environment for seamless collaboration. Deployed on Render, SmallHQ_public offers a hands-on learning experience with real-world API integrations and showcases the ability to enhance gaming experiences through innovative software solutions.
 
 ![Language](https://img.shields.io/badge/language-Java-blue)
 ![Status](https://img.shields.io/badge/status-Portfolio-Ready-green)
+
+## 👤 User Experience
+
+**What users can do:**
+- New users can create an account
+- Users can leave comments or feedback
 
 ## 🎯 Functionality
 
@@ -43,8 +36,8 @@ This project is configured for deployment on **Render**.
 
 ## 📊 Project Statistics
 
-- **Total Files:** 7
-- **Lines of Code:** 1,908
+- **Total Files:** 8
+- **Lines of Code:** 1,961
 - **Primary Language:** Java
 - **Development Status:** Portfolio-Ready
 
