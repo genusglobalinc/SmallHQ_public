@@ -69,7 +69,7 @@ SmallHQ_public/
 
 - **Language:** Java
 - **Files:** 8
-- **Lines of Code:** 1,942
+- **Lines of Code:** 2,003
 - **Status:** Portfolio-Ready
 
 ## 🚧 Future Enhancements
